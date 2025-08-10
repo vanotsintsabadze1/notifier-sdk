@@ -1,6 +1,4 @@
-﻿using MimeKit.Text;
-
-namespace Notifier.Models;
+﻿namespace Notifier.Models;
 
 public class EmailBody
 {
